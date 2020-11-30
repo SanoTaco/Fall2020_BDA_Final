@@ -3,7 +3,7 @@
 Academic performance is very important to a student, but we don't know what the most important factors are that affect it. We will analyze the dataset and develop a model to predict student achievement.
 
 ## Summary
-We used the data on education level, class, course choice, grades, attendance characteristics, and parental involvement to analyze the data and visualize it to predict student achievement by analyzing the data and developing a model.
+We used this dataset(xAPI-Edu-Data) to analyze the data and visualize it to predict student achievement by analyzing the data and developing a model.
 
 ## Research Steps
 Data pre-processing->data visualization->model building analysis->parameter tuning->prediction effect
